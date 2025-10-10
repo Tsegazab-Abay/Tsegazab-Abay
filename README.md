@@ -65,8 +65,6 @@ Tsegazab-Abay/Tsegazab-Abay is a ✨ special ✨
 - Tseh-gah-ZEH-ahb (ፀጋዘኣብ)
 
 ##⚡ Fun fact:
-- ✨ Dream Big. Start Small. To the Moon.✨ 
+- ✨ Dream Big. Start Small.✨ 
 
 ---
-
-Made with 💙 by Tsegazab & ChatGPT 🔥
