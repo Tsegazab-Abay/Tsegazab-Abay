@@ -1,5 +1,8 @@
 
 # Hi, I'm [Tsegazab Abay] 👋
+![Stats](https://github.com/Tsegazab-Abay/github-readme-stats)
+![Top Langs](https://github.com/Tsegazab-Abay/github-readme-stats)
+
 ### Python Automation Specialist & Web Scraping Expert
 
 I help businesses save time and reduce costs by replacing manual workflows with robust, scalable Python scripts. 
