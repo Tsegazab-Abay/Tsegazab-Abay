@@ -1,7 +1,7 @@
 
 # Hi, I'm [Tsegazab Abay] 👋
-![Stats](https://github.com/Tsegazab-Abay/github-readme-stats)
-![Top Langs](https://github.com/Tsegazab-Abay/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app)](https://github.com/Tsegazab-Abay/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/Tsegazab-Abay/github-readme-stats)
 
 ### Python Automation Specialist & Web Scraping Expert
 
